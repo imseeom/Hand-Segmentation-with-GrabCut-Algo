@@ -1,0 +1,1 @@
+# Hand-Segmentation-with-GrabCut-Algo
